@@ -1,6 +1,6 @@
-# PINQuest Assistant - Sistema de Verificação de PIN em JavaScript
+# PINQuest Assistant - Sistema de Verificação de PIN
 
-Bem-vindo ao PINQuest Assistant, um sistema interativo de verificação de PIN em JavaScript. Este sistema permite que os usuários insiram um PIN de 4 dígitos, fornecendo dicas para orientá-los na direção certa. Aqui estão as informações essenciais para começar:
+Bem-vindo ao PINQuest Assistant, um sistema interativo de verificação de PIN desevolvido na linguagem Javascript. Este sistema permite que os usuários insiram um PIN de 4 dígitos, fornecendo dicas para orientá-los na direção certa. Aqui estão as informações essenciais para começar:
 
 ## Instruções de Uso:
 
